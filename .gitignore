@@ -1,0 +1,7 @@
+node_modules/
+output/
+mochawesome-report/
+dist/
+.DS_Store
+*.log
+.env
